@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662418633629",
+    "project_id": "runconnect-9f62c",
+    "storage_bucket": "runconnect-9f62c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662418633629:android:58c2706febc2e247de3574",
+        "android_client_info": {
+          "package_name": "com.example.runconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5PXpsarYfoc4L7fXmC_YglbwuI71vGXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
